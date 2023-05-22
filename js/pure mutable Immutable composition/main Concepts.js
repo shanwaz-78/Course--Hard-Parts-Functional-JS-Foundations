@@ -1,4 +1,4 @@
-// Pure Functions => pure functions is a function that produce same output for the same input and he doesn't modifies the any externel state. that's called pure functions. 
+// Pure Functions => pure functions is a function that produce output for their inputs only and he doesn't modifies the any externel state. that's called pure functions. 
         // For Example.
 
 function addTwo(a,b) {
